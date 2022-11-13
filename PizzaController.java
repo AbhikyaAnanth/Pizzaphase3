@@ -12,6 +12,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
+//This class is for the controls of customising the pizza based on the way user orders it 
 public class PizzaController {
 
     @FXML
