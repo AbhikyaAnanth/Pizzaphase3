@@ -4,6 +4,7 @@ import javafx.scene.control.ComboBox;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
+//This class is the main class for the agent and his controls 
 public class Agent {
     private Orders order = new Orders();
     private ArrayList<Pizza> orders = new ArrayList<Pizza>();
