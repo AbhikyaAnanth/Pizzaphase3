@@ -36,9 +36,9 @@ public class PizzaController {
     String pizzaType = "#";
 
     String mushroomTopping =  "#";
-    String extraCheeseTopping =  " ";
-    String onionTopping =  " ";
-    String olivesTopping = " ";
+    String extraCheeseTopping =  "#";
+    String onionTopping =  "#";
+    String olivesTopping = "#";
 
     String usrID = null;
     Alert logoutMessage = new Alert(Alert.AlertType.NONE);
