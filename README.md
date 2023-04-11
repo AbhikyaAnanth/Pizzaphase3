@@ -1,2 +1,2 @@
 # Pizzaphase3
-This is the phase 3 of the app being developed 
+This is the coding files for a Pizza delivery system using Java
